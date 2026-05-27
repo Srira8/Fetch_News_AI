@@ -1,3 +1,4 @@
+# test
 from gatherers.news_scraper import fetch_news
 from utils.file_manager import save_data
 
